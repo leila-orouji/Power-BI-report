@@ -11,9 +11,9 @@ This Power BI report analyzes traffic incidents in Calgary from December 2016 to
 - Incident type categorization
 
 ## Files
-- `Calgary_Traffic_Incidents_Report.pbix` - Power BI report file
-- `collisions_raw.xlsx` - Source data
-- `Calgary_Traffic_Report.pdf` - PDF preview
+- `Calgary incidents.pbix` - Power BI report file
+- `collisions_raw.csv` - Source data
+- `Calgary incidents.pdf` - PDF preview
 
 ## How to Use
 1. Download the `.pbix` file
