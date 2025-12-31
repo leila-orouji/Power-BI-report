@@ -29,6 +29,7 @@ Calgary traffic incident data from [Dec 2016]
 - Most affected quadrant: [SE]
 - Peak hours: [5:15 pm]
 - Top location: [ Southbound Deerfoot Trail approaching Glenmore Trail ]
+- This dashboard identifies systemic problems. Rush hour concentration proves congestion is the core issue. Deerfoot Trail dominance shows specific infrastructure failures. Wednesday peaks suggest fatigue is a factor. These insights should drive resource allocation decisions: enforce during peak hours, focus on Deerfoot safety, and implement demand management.
 
 ## Tools Used
 - Power BI Desktop
